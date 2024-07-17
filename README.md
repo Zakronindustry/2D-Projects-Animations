@@ -1,6 +1,6 @@
 # Welcome to My Project Portfolio
 
-Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative solutions. I'm also an **EC-Council Certified Penetration Tester (ECPPT)** and an **eLearnSecurity Junior Penetration Tester (eJPT)**. Here are some of the projects I've worked on. **Don't worry about security—I've got it covered!**
+Hi! I'm Pranay Jain, a passionate developer with a knack for creating innovative solutions. I'm also an **eLearnSecurity Certified Penetration Tester (ECPPT)** and an **eLearnSecurity Junior Penetration Tester (eJPT)**. Here are some of the projects I've worked on. **Don't worry about security—I've got it covered!**
 
 > **Note:** These websites are only available for desktop; mobile versions are not available.
 
